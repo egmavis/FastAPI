@@ -39,6 +39,11 @@ See the test_main.py file
 - start command: "python main.py"
 - create service name, then create and deploy
 
+####*Extra Step 7*
+Future changes to make:
+  - add custom features such as color, font, images
+  - integrate into command line tool that can interact with user and prompt user for input
+
 ## Sources
 - tapaswenipathak/Horoscope-API [link](https://github.com/tapaswenipathak/Horoscope-API)
 - How to insert image file in FastAPI [link](https://www.youtube.com/watch?v=vpTAqnAbowo)
