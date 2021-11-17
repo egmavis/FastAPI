@@ -40,7 +40,7 @@ See the test_main.py file
 - create service name, then create and deploy
 
 #### *Extra Step 7*
-Future changes to make:
+Future changes to integrate:
   - add custom features such as color, font, images
   - integrate into command line tool that can interact with user and prompt user for input
 
