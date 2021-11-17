@@ -8,6 +8,11 @@ This project demonstrates how to use introductory-level Fast API functions with 
 
 
 ### Step 1: Create a new Repository and C9 environment
+
+
+https://user-images.githubusercontent.com/69800932/142260916-f78f3a1e-2425-4730-adf5-eb5ef03eeb24.mp4
+
+
 - create a new respository in GitHub
 - create a new C9 environment
 - open the IDE
@@ -17,12 +22,27 @@ This project demonstrates how to use introductory-level Fast API functions with 
 - create project scaffolding
 
 ### Step 2: Find an API
+
+
+https://user-images.githubusercontent.com/69800932/142261075-9394bfb1-d83c-4d30-ab27-b3465d3b7908.mp4
+
+
 I am using an already completed FastAPI to work off of, which can be found [here](https://github.com/tapaswenipathak/Horoscope-API). It is a horoscope generator that requires a time-frame and zodiac sign as URL inputs.
 
 ### Step 3: Write Fast API
+
+
+https://user-images.githubusercontent.com/69800932/142261103-bc91084c-502b-461b-9147-ffc772b203b1.mp4
+
+
 See the main.py file.
 
 ### Step 4: Write Testing File
+
+
+https://user-images.githubusercontent.com/69800932/142261145-a8db2994-b6eb-4b13-926d-d442f4890fb9.mp4
+
+
 See the test_main.py file
 
 #### *configure inbound rules*
@@ -32,6 +52,11 @@ See the test_main.py file
 - custom TCP: port range = 8080 and source = 0.0.0.0/0
 
 ### Step 5: Deploy Github Actions for Automated Testing
+
+
+https://user-images.githubusercontent.com/69800932/142261203-6edadbaf-dce9-48b5-818a-c8a634a7c298.mp4
+
+
 - set up a new workflow yourself
 - paste in stored text to populate the main.yml file
 - start commit
