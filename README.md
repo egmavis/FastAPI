@@ -25,6 +25,12 @@ See the main.py file.
 ### Step 4: Write Testing File
 See the test_main.py file
 
+#### *configure inbound rules*
+- ppen up AWS EC2 
+- go to security groups and select your working environment
+- edit your inbound rules and select "add rule"
+- custom TCP: port range = 8080 and source = 0.0.0.0/0
+
 ### Step 5: Deploy Github Actions for Automated Testing
 - set up a new workflow yourself
 - paste in stored text to populate the main.yml file
