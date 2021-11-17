@@ -26,7 +26,7 @@ See the main.py file.
 See the test_main.py file
 
 #### *configure inbound rules*
-- ppen up AWS EC2 
+- open up AWS EC2 
 - go to security groups and select your working environment
 - edit your inbound rules and select "add rule"
 - custom TCP: port range = 8080 and source = 0.0.0.0/0
