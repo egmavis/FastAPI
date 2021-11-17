@@ -22,7 +22,14 @@ I am using an already completed FastAPI to work off of, which can be found [here
 ### Step 3: Create Fast API
 See the main.py file.
 
-## Citations
+### Step 4: Create Testing File
+See the test_main.py file
+
+### Step 5: Deploy Github Actions for Automated Testing
+
+### Step 6: Connect to AWS App Runner
+
+## Sources
 - tapaswenipathak/Horoscope-API [link](https://github.com/tapaswenipathak/Horoscope-API)
 - How to insert image file in FastAPI [link](https://www.youtube.com/watch?v=vpTAqnAbowo)
 - Noah Gift's FastAPI Code [link](https://github.com/noahgift/fastapi-duke/blob/main/main.py)
