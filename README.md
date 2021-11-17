@@ -19,15 +19,25 @@ This project demonstrates how to use introductory-level Fast API functions with 
 ### Step 2: Find an API
 I am using an already completed FastAPI to work off of, which can be found [here](https://github.com/tapaswenipathak/Horoscope-API). It is a horoscope generator that requires a time-frame and zodiac sign as URL inputs.
 
-### Step 3: Create Fast API
+### Step 3: Write Fast API
 See the main.py file.
 
-### Step 4: Create Testing File
+### Step 4: Write Testing File
 See the test_main.py file
 
 ### Step 5: Deploy Github Actions for Automated Testing
+- set up a new workflow yourself
+- paste in stored text to populate the main.yml file
+- start commit
+- fix any errors until build has passed
 
 ### Step 6: Connect to AWS App Runner
+- create a new service from source code repository
+- connect to Github and specify which repoository to link
+- select python3 runtime
+- build command: "pip install -r requirements.txt"
+- start command: "python main.py"
+- create service name, then create and deploy
 
 ## Sources
 - tapaswenipathak/Horoscope-API [link](https://github.com/tapaswenipathak/Horoscope-API)
