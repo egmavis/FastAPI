@@ -37,7 +37,7 @@ See the test_main.py file
 - start commit
 - fix any errors until build has passed
 
-### Step 6: Connect to AWS App Runner
+### (Optional) Step 6: Connect to AWS App Runner
 - create a new service from source code repository
 - connect to Github and specify which repoository to link
 - select python3 runtime
